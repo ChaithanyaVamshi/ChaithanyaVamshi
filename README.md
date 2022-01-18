@@ -73,7 +73,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/quantumudit) [![Repos Badge](https://badges.pufler.dev/repos/quantumudit)](https://badges.pufler.dev)
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantumudit&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | ![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quantumudit&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs&custom_title=Udit's%20GitHub%20Stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantumudit&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | ![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaithanyavamshi&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs&custom_title=Chaithanya's%20GitHub%20Stats) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <details>
