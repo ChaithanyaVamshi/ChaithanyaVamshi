@@ -1,8 +1,6 @@
-## Hey there, I'm Chaithanya Vamshi <img src="images\waving-hand.gif" alt="hi" width="35px">
+## Hey there <img src="images\waving-hand.gif" alt="hi" width="35px">, I'm Chaithanya Vamshi 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
-
- <img src="images\my-cover-pic.png" alt="hi">
 
 **I'm an aspiring Data Scientist and a Business Intelligence Analyst with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I love solving business problems by Exploring data, Identifying KPI's and making an impact by generating business value using smart data-driven decisions.**
 
