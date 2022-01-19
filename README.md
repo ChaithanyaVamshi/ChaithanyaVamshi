@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150089844-2b1c84ce-3fbc-47cb-823b-95b81edfd187.gif" width="320" height="250" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150089844-2b1c84ce-3fbc-47cb-823b-95b81edfd187.gif" width="300" height="240" />
 
 # **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Chaithanya Vamshi** 
 
@@ -14,7 +14,7 @@
 <!-- TODO: Add last video link -->
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150092463-875d72f1-d6e1-467b-a908-417533ef14d7.gif" width="320" height="250" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150092463-875d72f1-d6e1-467b-a908-417533ef14d7.gif" width="300" height="240" />
 
 - 🎓 I’m currently pursuing **Master of Science (MSc) in Artificial Intelligence** @ **[Birmingham City University](https://www.bcu.ac.uk/)**
 - 🔭 I’m currently working on **Python Automation, SQL** and **Business Intelligence (BI)** 
@@ -27,7 +27,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150095100-17e28820-000b-4115-8ad6-77da4a4d7134.gif" width="250" height="200" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150095100-17e28820-000b-4115-8ad6-77da4a4d7134.gif" width="200" height="200" />
 
 ## **👨‍💻 Top Technologies**
 
