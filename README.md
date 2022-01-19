@@ -1,4 +1,4 @@
-# **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Chaithanya Vamshi** 
+# **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Chaithanya Vamshi** 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
 
@@ -115,6 +115,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chaithanyavamshi&layout=compact&theme=radical&show_icons=true&locale=en" 
 	alt="chaithanyavamshi" width="400"  /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanyavamshi&&layout=compact&theme=radical" alt="chaithanyavamshi" width="400"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanyavamshi&&layout=compact&theme=radical" alt="chaithanyavamshi" width="400"  /></p>
 
 
