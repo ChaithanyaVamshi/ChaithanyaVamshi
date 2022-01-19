@@ -13,6 +13,7 @@
 
 <!-- TODO: Add last video link -->
 
+
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150092463-875d72f1-d6e1-467b-a908-417533ef14d7.gif" width="320" height="250" />
 
 - 🎓 I’m currently pursuing **Master of Science (MSc) in Artificial Intelligence** @ **[Birmingham City University](https://www.bcu.ac.uk/)**
@@ -25,6 +26,8 @@
 - ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Dance and Cook. 
 
 
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150095100-17e28820-000b-4115-8ad6-77da4a4d7134.gif" width="250" height="200" />
 
 ## **👨‍💻 Top Technologies**
 
