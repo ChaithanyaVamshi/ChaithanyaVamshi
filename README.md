@@ -5,7 +5,6 @@
 **I'm an aspiring Data Scientist and a Business Intelligence Analyst with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I love solving business problems by Exploring data, Identifying KPI's and making an impact by generating business value using smart data-driven decisions.**
 
 
-
 ## **📫 Connect with me!**
 
 [![Linkedin Badge](https://img.shields.io/badge/-chaithanyavamshi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithanyavamshi/)  [![Mail Badge](https://img.shields.io/badge/-chaithanyav.sai@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chaithanyav.sai@gmail.com)
@@ -22,14 +21,13 @@
 - 📝 I write articles on **[Portfolio](https://chaithanyavamshi.github.io/posts/), [Medium](https://medium.com/@chaithanyavamshi)**
 - ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Dance and Cook. 
 
-</br>
 
 ## **👨‍💻 Top Technologies**
 
 <!-- TODO: Make technologies links takes you to repositories -->
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=212121&logo=python)](#) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&labelColor=212121&logo=pandas&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&labelColor=212121&logo=numpy&logoColor=white)](#) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&labelColor=212121&logo=scikit-learn&logoColor=white)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-%230C55A5.svg?style=for-the-badge&labelColor=212121&logo=PyTorch&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&labelColor=212121&logo=TensorFlow&logoColor=white)](#) [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi)](#) [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#) [![SQL Server Badge](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&labelColor=212121&logo=Microsoft%20SQL%20Server&logoColor=CC2927)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)](#) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=212121&logo=git&logoColor=white)](#) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&labelColor=212121&logo=amazon-aws&logoColor=white)](#) [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&labelColor=212121&logo=microsoftazure&logoColor=white)](#)
 
-</br>
+
 
 ## **🚀 Languages and Tools**
 
@@ -108,12 +106,15 @@
     </a> 	
  </p>   
 
-#### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+## **🕵️Github Profile Stats** 
+</br>
+
+**![visitor badge](https://visitor-badge.glitch.me/badge?page_id=chaithanyavamshi.visitor-badge)**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chaithanyavamshi&layout=compact&theme=radical&show_icons=true&locale=en" 
+	alt="chaithanyavamshi" width="450"  /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanyavamshi&&layout=compact&theme=radical" alt="chaithanyavamshi" width="450"  /></p>
 
 
-
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
