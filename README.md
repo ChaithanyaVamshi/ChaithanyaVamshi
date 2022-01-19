@@ -1,8 +1,8 @@
-## Hey, I'm Chaithanya Vamshi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hey, I'm Chaithanya Vamshi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
 
-I'm an aspiring Data Scientist and a Business Intelligence Analyst with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I love solving business problems by Exploring data, Identifying KPI's and making an impact by generating business value using smart data-driven decisions.
+### I'm an aspiring Data Scientist and a Business Intelligence Analyst with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I love solving business problems by Exploring data, Identifying KPI's and making an impact by generating business value using smart data-driven decisions.
 
 **📫 Reach me out!**
 
@@ -20,10 +20,10 @@ I'm an aspiring Data Scientist and a Business Intelligence Analyst with 3 years 
 - 📝 I write articles on [Portfolio](https://chaithanyavamshi.github.io/posts/), [Medium](https://medium.com/@chaithanyavamshi)
 - ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Dance and Cook.
 
-#### Top Technologies
+👨🏽‍💻 Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-
+[](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 ### Tutorials
