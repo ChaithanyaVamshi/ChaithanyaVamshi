@@ -1,8 +1,7 @@
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150089844-2b1c84ce-3fbc-47cb-823b-95b81edfd187.gif" width="320" height="280" />
+
 # **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Chaithanya Vamshi** 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150089844-2b1c84ce-3fbc-47cb-823b-95b81edfd187.gif" width="180" height="180" />
 
 **I'm an aspiring Data Scientist and a Business Intelligence Analyst with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I love solving business problems by Exploring data, Identifying KPI's and making an impact by generating business value using smart data-driven decisions.**
 
@@ -14,7 +13,7 @@
 
 <!-- TODO: Add last video link -->
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150089188-35a477db-8766-412d-a8c1-a6b9e83bc377.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150092463-875d72f1-d6e1-467b-a908-417533ef14d7.gif" width="320" height="250" />
 
 - 🎓 I’m currently pursuing **Master of Science (MSc) in Artificial Intelligence** @ **[Birmingham City University](https://www.bcu.ac.uk/)**
 - 🔭 I’m currently working on **Python Automation, SQL** and **Business Intelligence (BI)** 
@@ -24,6 +23,7 @@
 - 💬 Ask me about **Artificial Intelligence, Data Science, Machine Learning** and **Business Intelligence (BI)**
 - 📝 I write articles on **[Portfolio](https://chaithanyavamshi.github.io/posts/), [Medium](https://medium.com/@chaithanyavamshi)**
 - ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Dance and Cook. 
+
 
 
 ## **👨‍💻 Top Technologies**
@@ -109,7 +109,6 @@
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40" />
     </a> 	
  </p>   
-
 
 ## **🕵️ Github Profile Stats** 
 </br>
