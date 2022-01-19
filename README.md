@@ -4,7 +4,7 @@
 
 **I'm an aspiring Data Scientist and a Business Intelligence Analyst with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I love solving business problems by Exploring data, Identifying KPI's and making an impact by generating business value using smart data-driven decisions.**
 
-</br>
+
 
 ## **📫 Connect with me!**
 
