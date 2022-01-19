@@ -113,8 +113,8 @@
 **![visitor badge](https://visitor-badge.glitch.me/badge?page_id=chaithanyavamshi.visitor-badge)**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chaithanyavamshi&layout=compact&theme=radical&show_icons=true&locale=en" 
-	alt="chaithanyavamshi" width="450"  /></p>
+	alt="chaithanyavamshi" width="400"  /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanyavamshi&&layout=compact&theme=radical" alt="chaithanyavamshi" width="450"  /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanyavamshi&&layout=compact&theme=radical" alt="chaithanyavamshi" width="400"  /></p>
 
 
