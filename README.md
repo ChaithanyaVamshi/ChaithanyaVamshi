@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150089844-2b1c84ce-3fbc-47cb-823b-95b81edfd187.gif" width="180" height="180" />
+
 **I'm an aspiring Data Scientist and a Business Intelligence Analyst with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I love solving business problems by Exploring data, Identifying KPI's and making an impact by generating business value using smart data-driven decisions.**
 
 
@@ -11,6 +13,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-@ChaithanyaVams2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/ChaithanyaVams2) [![Mail Badge](https://img.shields.io/badge/-@Chaithanya_vamsi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/chaithanya_vamsi/)
 
 <!-- TODO: Add last video link -->
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150089188-35a477db-8766-412d-a8c1-a6b9e83bc377.gif" width="500" height="320" />
 
 - 🎓 I’m currently pursuing **Master of Science (MSc) in Artificial Intelligence** @ **[Birmingham City University](https://www.bcu.ac.uk/)**
 - 🔭 I’m currently working on **Python Automation, SQL** and **Business Intelligence (BI)** 
@@ -116,5 +120,3 @@
 	alt="chaithanyavamshi" width="400"  /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanyavamshi&&layout=compact&theme=radical" alt="chaithanyavamshi" width="400"  /></p>
-
-
