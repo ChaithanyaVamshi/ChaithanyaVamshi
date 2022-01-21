@@ -3,7 +3,7 @@
 # **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Chaithanya Vamshi** 
 
 
-**I'm an aspiring Data Scientist and a Business Intelligence Analyst with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I love solving business problems by Exploring data, Identifying KPI's and making an impact by generating business value using smart data-driven decisions.**
+#### I'm an aspiring **Data Scientist** and a **Business Intelligence Analyst** with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I love solving business problems by Exploring data, Identifying KPI's and making an impact by generating business value using smart data-driven decisions.**
 
 
 ## **📫 Connect with me!**
