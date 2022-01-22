@@ -80,7 +80,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
 </a>	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-      <img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" alt="flask" width="40" height="40" />
+      <img src="https://www.pngfind.com/pngs/m/104-1044449_python-logo-clipart-drawing-flask-python-hd-png.png" alt="flask" width="40" height="40" />
     </a> 
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40"
