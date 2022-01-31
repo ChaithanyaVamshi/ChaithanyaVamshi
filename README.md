@@ -18,7 +18,7 @@
 
 - 🎓 I’m currently pursuing **Master of Science (MSc) in Artificial Intelligence** @ **[Birmingham City University](https://www.bcu.ac.uk/)**
 - 🔭 I’m currently working on **Python Automation, SQL** and **Business Intelligence (BI)** 
-- 🌱 I’m currently learning **Data Visualisation, Storytelling, Machine Learning** and **Deep Learning**
+- 🌱 I’m currently learning **Data Visualisation, Storytelling, Machine Learning**, **Deep Learning and Microsoft Azure**
 - 🤝 I’m looking to collaborate with other Data Nerds.
 - 🌍 I'm looking to contribute more to open source Data projects
 - 💬 Ask me about **Artificial Intelligence, Data Science, Machine Learning** and **Business Intelligence (BI)**
