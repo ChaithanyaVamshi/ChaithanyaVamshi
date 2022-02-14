@@ -22,7 +22,7 @@
 - 🤝 I’m looking to collaborate with other Data Nerds.
 - 🌍 I'm looking to contribute more to open source Data projects
 - 💬 Ask me about **Artificial Intelligence, Data Science, Machine Learning** and **Business Intelligence (BI)**
-- 📝 I write articles on **[Portfolio](https://chaithanyavamshi.github.io/posts/), [Medium](https://medium.com/@chaithanyavamshi)**
+- 📝 I write blogs on **[Portfolio](https://chaithanyavamshi.github.io/posts/), [Medium](https://medium.com/@chaithanyavamshi)**
 - ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Dance and Cook. 
 
 ## **👨‍💻 Top Technologies**
