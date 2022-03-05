@@ -1,18 +1,18 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150089844-2b1c84ce-3fbc-47cb-823b-95b81edfd187.gif" width="300" height="230" />
 
-# **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Chaithanya Vamshi** 
+# **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Chaithanya Vamshi 🚀** 
+
 
 
 #### I'm an aspiring **Data Scientist** and a **Business Intelligence Analyst** with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I love solving business problems by Exploring data, Identifying KPI's and making an Impact by generating Business Value using Smart Data-driven Decisions.
 
 
-## **📫 Connect with me!**
+## **📫 Connect with Me!**
 
 [![Linkedin Badge](https://img.shields.io/badge/-chaithanyavamshi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithanyavamshi/)  [![Mail Badge](https://img.shields.io/badge/-chaithanyav.sai@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chaithanyav.sai@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@ChaithanyaVams2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/ChaithanyaVams2) [![Mail Badge](https://img.shields.io/badge/-@Chaithanya_vamsi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/chaithanya_vamsi/)
 
 <!-- TODO: Add last video link -->
-
 
 <!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150092463-875d72f1-d6e1-467b-a908-417533ef14d7.gif" width="300" height="240" /> -->
 - 🎓 I’m currently pursuing **Master of Science (MSc) in Artificial Intelligence** @ **[Birmingham City University](https://www.bcu.ac.uk/)**
