@@ -7,7 +7,7 @@
 
 <p align="center">
 
-<img alt="GIF" src="https://user-images.githubusercontent.com/31254745/157030033-e97d39b2-4706-443c-8d68-7427ac69daf0.gif" width="500" height="320" />
+<img alt="GIF" src="https://user-images.githubusercontent.com/31254745/157030033-e97d39b2-4706-443c-8d68-7427ac69daf0.gif" width="500" height="300" />
 </p>
 	
 ## **📫 Connect with Me!**
@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img width="500" height = "320" src="https://user-images.githubusercontent.com/31254745/157023638-1e812e52-7250-4a36-ab33-2850e9d75180.gif" alt="GIF">
+  <img width="500" height = "300" src="https://user-images.githubusercontent.com/31254745/157023638-1e812e52-7250-4a36-ab33-2850e9d75180.gif" alt="GIF">
 </p>
 
 ## **👨‍💻 Top Technologies**
