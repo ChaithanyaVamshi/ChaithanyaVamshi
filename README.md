@@ -1,13 +1,13 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150089844-2b1c84ce-3fbc-47cb-823b-95b81edfd187.gif" width="300" height="230" />
-
-
 
 # **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Chaithanya Vamshi 🚀** 
 
-
-
 #### I'm an aspiring **Data Scientist** and a **Business Intelligence Analyst** with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I love solving business problems by Exploring data, Identifying KPI's and making an Impact by generating Business Value using Smart Data-driven Decisions.
 
+<p align="center">
+
+<img alt="GIF" src="https://user-images.githubusercontent.com/31254745/157030033-e97d39b2-4706-443c-8d68-7427ac69daf0.gif" width="580" height="320" />
+</p>
+	
 ## **📫 Connect with Me!**
 
 [![Linkedin Badge](https://img.shields.io/badge/-chaithanyavamshi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithanyavamshi/)  [![Mail Badge](https://img.shields.io/badge/-chaithanyav.sai@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chaithanyav.sai@gmail.com)
@@ -24,6 +24,10 @@
 - 💬 Ask me about **Artificial Intelligence, Data Science, Machine Learning, Data Analytics and Business Intelligence (BI).**
 - 📝 I write blogs on **[Portfolio](https://chaithanyavamshi.github.io/posts/), [Medium](https://medium.com/@chaithanyavamshi)**
 - ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Dance and Cook. 
+
+<p align="center">
+  <img width="600" height = "300" src="https://user-images.githubusercontent.com/31254745/157023638-1e812e52-7250-4a36-ab33-2850e9d75180.gif" alt="GIF">
+</p>
 
 ## **👨‍💻 Top Technologies**
 
