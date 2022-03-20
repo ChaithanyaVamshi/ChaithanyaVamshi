@@ -3,11 +3,11 @@
 
 #### I'm an aspiring Data Scientist and a Business Intelligence Analyst with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I help businesses to skyrocket their Revenue using data and I love solving business problems by Exploring data, Identifying KPI's and making an Impact by generating Business value using Smart Data-driven decisions.
 
-<p align="center">
+<!--<p align="center">
 
 <img alt="GIF" src="https://user-images.githubusercontent.com/31254745/157030033-e97d39b2-4706-443c-8d68-7427ac69daf0.gif" width="500" height="300" />
 </p>
-	
+-->	
 ## **📫 Connect with Me!**
 
 [![Linkedin Badge](https://img.shields.io/badge/-chaithanyavamshi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithanyavamshi/)  [![Mail Badge](https://img.shields.io/badge/-chaithanyav.sai@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chaithanyav.sai@gmail.com)
@@ -25,11 +25,11 @@
 - 📝 I write blogs on [Portfolio](https://chaithanyavamshi.github.io/posts/), [Medium](https://medium.com/@chaithanyavamshi)
 - ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Dance and Cook. 
 
-
+<!--
 <p align="center">
   <img width="500" height = "300" src="https://user-images.githubusercontent.com/31254745/157023638-1e812e52-7250-4a36-ab33-2850e9d75180.gif" alt="GIF">
 </p>
-
+-->
 ## **👨‍💻 Top Technologies**
 
 <!-- TODO: Make technologies links takes you to repositories -->
