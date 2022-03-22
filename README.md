@@ -4,9 +4,8 @@
 
 #### I'm an aspiring Data Scientist and a Business Intelligence Analyst with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I help businesses to skyrocket their Revenue using data and I love solving business problems by Exploring data, Identifying KPI's and making an Impact by generating Business value using Smart Data-driven decisions.
 
-![Chaithanya Vamshi - Data Scientist](https://user-images.githubusercontent.com/31254745/159381376-2ab62232-7568-4980-afd0-d695501e77bd.png)
 
-
+![image](https://user-images.githubusercontent.com/31254745/159474200-10e8f6ef-4e84-46ed-928b-5b89ae8917c4.png)
 	
 <!--<p align="center">
 
