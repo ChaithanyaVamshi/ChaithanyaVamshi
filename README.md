@@ -95,7 +95,7 @@
 	<img src="https://user-images.githubusercontent.com/31254745/159690191-da82cdc0-8dc6-45a6-898c-fbae6ac5c614.png" alt="django" width="60" height="40" />
     </a> 
      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://user-images.githubusercontent.com/31254745/159691844-d77fc734-8edc-464a-8261-43b034c0aab4.png"
+      <img src="https://user-images.githubusercontent.com/31254745/159692512-3e6c0f5d-f3de-454e-a30a-c4d686499b11.png"
       alt="aws" width="50" height="50" />
     </a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
