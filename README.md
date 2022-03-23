@@ -46,74 +46,73 @@
 <p align="left">
 	
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"
-      height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50"
+      height="50" />
 </a> <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="40" height="40"> 
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="50" height="50"> 
 </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
-      width="40" height="40" />
+      width="50" height="50" />
 </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50" />
 </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql" width="40" height="40" />
+      alt="postgresql" width="50" height="50" />
 </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" />
+      alt="mongodb" width="50" height="50" />
 </a> <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
 </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" />
+      alt="pandas" width="50" height="50" />
 </a>   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40"
-      height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50"
+      height="50" />
 </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50" />
 </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-      alt="selenium" width="40" height="40" />
+      alt="selenium" width="50" height="50" />
 </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/PowerBI.png" alt="powerbi" width="35" height="40" />
+      <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/PowerBI.png" alt="powerbi" width="50" height="50" />
     </a> 	<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/2x/tableau-software.png" alt="Tableau" width="40" height="40" />
+      <img src="https://img.icons8.com/color/2x/tableau-software.png" alt="Tableau" width="50" height="50" />
     </a> 
 	<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="50" height="50" />
     </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50" />
 </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50" />
     </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" />
 </a>	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.pngfind.com/pngs/m/104-1044449_python-logo-clipart-drawing-flask-python-hd-png.png" alt="flask" width="40" height="40" />
+      <img src="https://user-images.githubusercontent.com/31254745/159689829-7e7ba87e-986f-4d08-9d80-56ae5575b32f.png" alt="flask" width="60" height="40" />
     </a> 
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40"
-      height="40" />
+	<img src="https://user-images.githubusercontent.com/31254745/159690191-da82cdc0-8dc6-45a6-898c-fbae6ac5c614.png" alt="django" width="60" height="40" />
     </a> 
      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg"
-      alt="aws" width="40" height="40" />
+      <img src="https://user-images.githubusercontent.com/31254745/159691844-d77fc734-8edc-464a-8261-43b034c0aab4.png"
+      alt="aws" width="50" height="50" />
     </a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50" />
     </a> 
     <a href="https://heroku.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50" />
     </a> 	<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-      <img src="https://avatars.githubusercontent.com/u/45109972?s=400&amp;v=4" alt="streamlit" width="40" height="40" />
+      <img src="https://avatars.githubusercontent.com/u/45109972?s=400&amp;v=4" alt="streamlit" width="50" height="50" />
     </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="50" height="50" />
     </a> 	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="50" height="50" />
     </a> 	<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/977px-Google_Colaboratory_SVG_Logo.svg.png" alt="colab" width="40" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/977px-Google_Colaboratory_SVG_Logo.svg.png" alt="colab" width="50" height="50" />
     </a>  	<a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40" />
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="50" height="50" />
     </a> 	
  </p>   
 
