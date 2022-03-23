@@ -87,7 +87,7 @@
       <img src="https://user-images.githubusercontent.com/31254745/159694224-853ac2f6-102e-4ff7-bcf0-54a10260bb40.png" alt="neuralnetworks" width="50" height="50" />
 </a> 
 </a> <a href="https://keras.io/" target="_blank" rel="noreferrer">
-      <img src="https://user-images.githubusercontent.com/31254745/159694902-443d064e-f73f-44a2-b14f-aeeeb2a3777c.png" alt="Keras" width="65" height="50" />
+      <img src="https://user-images.githubusercontent.com/31254745/159694902-443d064e-f73f-44a2-b14f-aeeeb2a3777c.png" alt="Keras" width="65" height="45" />
 </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" />
