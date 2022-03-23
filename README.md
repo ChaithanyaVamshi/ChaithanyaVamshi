@@ -83,9 +83,12 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="50" height="50" />
     </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50" />
-</a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50" />
-    </a> 
+</a> <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/31254745/159694224-853ac2f6-102e-4ff7-bcf0-54a10260bb40.png" alt="neuralnetworks" width="50" height="50" />
+</a> 
+</a> <a href="https://keras.io/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/31254745/159694902-443d064e-f73f-44a2-b14f-aeeeb2a3777c.png" alt="Keras" width="65" height="50" />
+</a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" />
 </a>	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
