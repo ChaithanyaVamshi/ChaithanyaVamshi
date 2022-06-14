@@ -75,8 +75,8 @@
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
       alt="selenium" width="50" height="50" />
 </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/PowerBI.png" alt="powerbi" width="50" height="50" />
-    </a> 	<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/31254745/173573412-4b09f7ea-7227-464e-89b4-5f0ac1e0f138.png" alt="powerbi" width="50" height="50" />
+</a> 	<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
       <img src="https://img.icons8.com/color/2x/tableau-software.png" alt="Tableau" width="50" height="50" />
     </a> 
 	<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
