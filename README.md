@@ -2,7 +2,7 @@
 # **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height = "28px" alt="hi"> I'm Chaithanya Vamshi Sai** 
 
 
-#### I'm an aspiring Data Scientist and a Business Intelligence Analyst with 3 years of work experience in the Hotel Technology and Commercial Real Estate Industry. I help businesses to skyrocket their Revenue using data and I'm passionate about solving business problems by Exploring data, Identifying KPI's and making an Impact by generating Business value using Smart Data-driven decisions.
+#### I'm an aspiring Data Scientist and a Business Intelligence Analyst with 3+ years of work experience in the Hotel Technology and Commercial Real Estate Industry. I help businesses to skyrocket their Revenue using data. I'm passionate about solving business problems by Exploring data, Identifying KPI's and making an Impact by generating Business value using Smart Data-driven decisions.
 
 
 ![image](https://user-images.githubusercontent.com/31254745/159474200-10e8f6ef-4e84-46ed-928b-5b89ae8917c4.png)
@@ -15,14 +15,14 @@
 ## **📫 Connect with Me!**
 
 [![Linkedin Badge](https://img.shields.io/badge/-chaithanyavamshi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithanyavamshi/)  [![Mail Badge](https://img.shields.io/badge/-chaithanyav.sai@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chaithanyav.sai@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@ChaithanyaVams2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/ChaithanyaVams2) [![Mail Badge](https://img.shields.io/badge/-@Chaithanya_vamsi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/chaithanya_vamsi/)
+[![Twitter Badge](https://img.shields.io/badge/-@ChaithanyaVams2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/ChaithanyaVams2) 
 
 <!-- TODO: Add last video link -->
 
 <!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150092463-875d72f1-d6e1-467b-a908-417533ef14d7.gif" width="300" height="240" /> -->
 - 🎓 I’m currently pursuing Master of Science (MSc) in Artificial Intelligence @ [Birmingham City University](https://www.bcu.ac.uk/)
-- 🔭 I’m currently working on Python Automation, SQL, Machine Learning and Business Intelligence (BI). 
-- 🌱 I’m currently learning Storytelling, Machine Learning, Time Series Forecasting, Deep Learning and Microsoft Azure.
+- 🔭 I’m currently working on Explainable AI, Python Automation, SQL, Machine Learning and Business Intelligence (BI). 
+- 🌱 I’m currently learning Storytelling, Time Series Forecasting, Deep Learning, AWS and Microsoft Azure.
 - 🤝 I’m looking to collaborate with other Data Nerds.
 - 🌍 I'm looking to contribute more to open source Data projects.
 - 💬 Ask me about Artificial Intelligence, Data Science, Machine Learning, Data Analytics and Business Intelligence (BI).
