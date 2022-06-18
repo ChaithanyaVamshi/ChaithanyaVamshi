@@ -23,7 +23,7 @@
 - 🎓 I’m currently pursuing Master of Science (MSc) in Artificial Intelligence @ [Birmingham City University](https://www.bcu.ac.uk/)
 - 🔭 I’m currently working on Explainable AI, Python Automation, SQL, Machine Learning and Business Intelligence (BI). 
 - 🌱 I’m currently learning Storytelling, Time Series Forecasting, Deep Learning, AWS and Microsoft Azure.
-- 🤝 I’m looking to collaborate with other Data Nerds.
+- 🤝 I’m looking to collaborate with Data Nerds who share the same passion for uncovering insights from the data.
 - 🌍 I'm looking to contribute more to open source Data projects.
 - 💬 Ask me about Artificial Intelligence, Data Science, Machine Learning, Data Analytics and Business Intelligence (BI).
 - 📝 I write Tech blogs on [Portfolio](https://chaithanyavamshi.github.io/posts/), [Medium](https://medium.com/@chaithanyavamshi)
