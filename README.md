@@ -2,7 +2,7 @@
 # **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height = "28px" alt="hi"> I'm Chaithanya Vamshi Sai** 
 
 
-#### Solution-focused Data Analyst and Business Intelligence Analyst with 3+ years of experience in analysing and operationalising data-driven solutions by boosting revenue, efficiency, and utility of internal business processes in the Hotel Technology and Commercial Real Estate industry. Initiative-driven and Resourceful data professional highly adept at learning, collaborating and communicating complex insights. Aspiring Data Scientist with a passion to solve business problems and committed to accelerating business value using data.
+#### Solution-focused Data Analyst and Business Intelligence Analyst with 3+ years of experience in analysing and operationalising data-driven solutions by boosting revenue, efficiency, and utility of internal business processes in the Hotel Technology and Commercial Real Estate industry. Initiative-driven data professional highly adept at learning, collaborating and communicating complex insights. Aspiring Data Scientist with a passion to solve business problems and committed to accelerating business value using data.
 
 
 ![image](https://user-images.githubusercontent.com/31254745/178494646-0c970566-718c-438d-978f-3e2f47181850.png)
