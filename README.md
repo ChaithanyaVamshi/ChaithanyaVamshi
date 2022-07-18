@@ -4,8 +4,7 @@
 
 #### Solution-focused Data Analyst and Business Intelligence Analyst with 3+ years of experience in analysing and operationalising data-driven solutions by boosting revenue, efficiency, and utility of internal business processes in the Hotel Technology and Commercial Real Estate industry. Initiative-driven data professional highly adept at learning, collaborating and communicating complex insights. Aspiring Data Scientist with a passion to solve business problems and committed to accelerating business value using data.
 
-
-![image](https://user-images.githubusercontent.com/31254745/178494646-0c970566-718c-438d-978f-3e2f47181850.png)
+![image](https://user-images.githubusercontent.com/31254745/179630293-bbc05c65-3718-443c-86a0-032ce3cae351.png)
 	
 <!--<p align="center">
 
