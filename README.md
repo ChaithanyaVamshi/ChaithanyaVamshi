@@ -19,11 +19,10 @@
 <!-- TODO: Add last video link -->
 
 <!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150092463-875d72f1-d6e1-467b-a908-417533ef14d7.gif" width="300" height="240" /> -->
-- 🎓 I’m currently pursuing Master of Science (MSc) in Artificial Intelligence @ [Birmingham City University](https://www.bcu.ac.uk/)
-- 🔭 I’m currently working on Explainable AI, Python Automation, SQL, Machine Learning and Business Intelligence (BI). 
-- 🌱 I’m currently learning Storytelling, Time Series Forecasting, Deep Learning, AWS and Microsoft Azure.
-- 🤝 I’m looking to collaborate with Data Nerds who share the same passion for uncovering insights from the data.
-- 🌍 I'm looking to contribute more to open source Data projects.
+- 🎓 Pursuing Master of Science (MSc) in Artificial Intelligence @ [Birmingham City University](https://www.bcu.ac.uk/) (Graduating Sep 2022)
+- 🔭 Researching on Explainable AI, Interpretable Machine Learning, Human-centric AI. 
+- 🌱 Exploring Machine Learning, Time Series Forecasting, Deep Neural Networks, AWS and Microsoft Azure.
+- 🤝 Looking to collaborate with Data Nerds who share the same passion for uncovering insights from the data.
 - 💬 Ask me about Artificial Intelligence, Data Science, Machine Learning, Data Analytics and Business Intelligence (BI).
 - 📝 I write Tech blogs on [Portfolio](https://chaithanyavamshi.github.io/posts/), [Medium](https://medium.com/@chaithanyavamshi)
 - ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Dance and Cook. 
