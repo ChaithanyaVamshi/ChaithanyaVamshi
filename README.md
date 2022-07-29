@@ -13,7 +13,7 @@
 -->	
 ## **📫 Connect with Me!**
 [![GitHub Badge](https://img.shields.io/badge/-chaithanyavamshi-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/ChaithanyaVamshi/)
-[![Linkedin Badge](https://img.shields.io/badge/-chaithanyavs-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithanyavs/)  [![Mail Badge](https://img.shields.io/badge/-chaithanyav.sai@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chaithanyav.sai@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-chaithanyavsai-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithanyavsai/)  [![Mail Badge](https://img.shields.io/badge/-chaithanyav.sai@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chaithanyav.sai@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@ChaithanyaVams2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/ChaithanyaVams2) 
 
 <!-- TODO: Add last video link -->
