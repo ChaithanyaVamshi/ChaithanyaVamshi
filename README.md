@@ -5,7 +5,7 @@
 #### Solution-focused Data Analyst and Business Intelligence Analyst with 3+ years of experience in analysing and operationalising data-driven solutions by boosting revenue, efficiency, and utility of internal business processes in the Hotel Technology and Commercial Real Estate industry. Initiative-driven data professional highly adept at learning, collaborating and communicating complex insights. Aspiring Data Scientist with a passion to solve business problems and committed to accelerating business value using data.
 
 
-![Chaithanya Vamshi Data Scientist - GitHub](https://user-images.githubusercontent.com/31254745/181863289-75ee1caf-d9aa-4dd9-b1aa-bd52df9b4341.png)
+<!--![Chaithanya Vamshi Data Scientist - GitHub](https://user-images.githubusercontent.com/31254745/181863289-75ee1caf-d9aa-4dd9-b1aa-bd52df9b4341.png)-->
 	
 <!--<p align="center">
 
