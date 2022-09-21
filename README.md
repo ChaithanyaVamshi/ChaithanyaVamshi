@@ -4,8 +4,6 @@
 
 #### Solution-focused Data Analyst and Business Intelligence Analyst with 3+ years of experience in analysing and operationalising data-driven solutions by boosting revenue, efficiency, and utility of internal business processes in the Hotel Technology and Commercial Real Estate industry. Aspiring Data Scientist confident in collaborating with cross-functional teams to solve business problems by uncovering valuable insights, streamlining business processes, and impacting revenue.
 
-#### My mission is to make AI more Explainable, Trustable, and Understandable to human users for better Business decision-making and have a positive impact on the business and society.
-
 
 <!--![Chaithanya Vamshi Data Scientist - GitHub](https://user-images.githubusercontent.com/31254745/181863289-75ee1caf-d9aa-4dd9-b1aa-bd52df9b4341.png)-->
 	
