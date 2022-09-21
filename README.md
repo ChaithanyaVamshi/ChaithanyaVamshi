@@ -4,6 +4,8 @@
 
 #### Solution-focused Data Analyst and Business Intelligence Analyst with 3+ years of experience in analysing and operationalising data-driven solutions by boosting revenue, efficiency, and utility of internal business processes in the Hotel Technology and Commercial Real Estate industry. Aspiring Data Scientist confident in collaborating with cross-functional teams to solve business problems by uncovering valuable insights, streamlining business processes, and impacting revenue.
 
+#### My mission is to make AI more Explainable, Trustable, and Understandable to human users for better Business decision-making and have a positive impact on the business and society.
+
 
 <!--![Chaithanya Vamshi Data Scientist - GitHub](https://user-images.githubusercontent.com/31254745/181863289-75ee1caf-d9aa-4dd9-b1aa-bd52df9b4341.png)-->
 	
@@ -20,8 +22,8 @@
 <!-- TODO: Add last video link -->
 
 <!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150092463-875d72f1-d6e1-467b-a908-417533ef14d7.gif" width="300" height="240" /> -->
-- 🎓 Pursuing Master of Science (MSc) in Artificial Intelligence @ [Birmingham City University](https://www.bcu.ac.uk/) (Graduating Sep 2022)
-- 🔭 Researching on Explainable AI, Interpretable Machine Learning, Human-centric AI. 
+- 🎓 Master of Science (MSc) in Artificial Intelligence @ Birmingham City University, UK.
+- 🔭 Researching on Explainable AI (XAI), Interpretable Machine Learning (IML), Human-centric AI. 
 - 🌱 Exploring Machine Learning, Time Series Forecasting, Deep Neural Networks, AWS and Microsoft Azure.
 - 🤝 Looking to collaborate with Data Nerds who share the same passion for uncovering insights from the data.
 - 💬 Ask me about Artificial Intelligence, Data Science, Machine Learning, Data Analytics and Business Intelligence (BI).
@@ -36,7 +38,7 @@
 ## **👨‍💻 Technology Proficiency**
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=212121&logo=python)](#) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&labelColor=212121&logo=pandas&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&labelColor=212121&logo=numpy&logoColor=white)](#) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&labelColor=212121&logo=scikit-learn&logoColor=white)](#)  [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&labelColor=212121&logo=TensorFlow&logoColor=white)](#) [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi)](#) [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#) [![SQL Server Badge](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&labelColor=212121&logo=Microsoft%20SQL%20Server&logoColor=CC2927)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)](#) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=212121&logo=git&logoColor=white)](#) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&labelColor=212121&logo=amazon-aws&logoColor=white)](#) [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&labelColor=212121&logo=microsoftazure&logoColor=white)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=212121&logo=python)](#) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&labelColor=212121&logo=pandas&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&labelColor=212121&logo=numpy&logoColor=white)](#) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&labelColor=212121&logo=scikit-learn&logoColor=white)](#)  [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&labelColor=212121&logo=TensorFlow&logoColor=white)](#) [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi)](#) [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#) [![SQL Server Badge](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&labelColor=212121&logo=Microsoft%20SQL%20Server&logoColor=CC2927)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)](#) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=212121&logo=git&logoColor=white)](#) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&labelColor=212121&logo=amazon-aws&logoColor=white)](#) [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&labelColor=212121&logo=microsoftazure&logoColor=white)](#) 
 
 
 ## **🚀 Languages and Tools**
@@ -93,9 +95,6 @@
 </a>	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/31254745/159689829-7e7ba87e-986f-4d08-9d80-56ae5575b32f.png" alt="flask" width="60" height="40" />
     </a> 
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-	<img src="https://user-images.githubusercontent.com/31254745/159690191-da82cdc0-8dc6-45a6-898c-fbae6ac5c614.png" alt="django" width="60" height="40" />
-    </a> 
      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/31254745/159692512-3e6c0f5d-f3de-454e-a30a-c4d686499b11.png"
       alt="aws" width="50" height="50" />
@@ -115,7 +114,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/977px-Google_Colaboratory_SVG_Logo.svg.png" alt="colab" width="50" height="50" />
     </a>  	<a href="https://github.com/" target="_blank" rel="noreferrer">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="50" height="50" />
-    </a> 	
+    </a> 
+    
  </p>   
 
 ## **🕵️ Github Profile Stats** 
