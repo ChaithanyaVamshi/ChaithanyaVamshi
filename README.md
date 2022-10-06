@@ -120,6 +120,7 @@
 </br>
 
 **![visitor badge](https://visitor-badge.glitch.me/badge?page_id=chaithanyavamshi.visitor-badge)**
+<!--![](https://komarev.com/ghpvc/?username=chaithanyavamshi&style=flat-square)-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chaithanyavamshi&layout=compact&theme=radical&show_icons=true&locale=en" 
 	alt="chaithanyavamshi" width="400"  /></p>
