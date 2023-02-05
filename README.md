@@ -2,7 +2,7 @@
 # **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height = "28px" alt="hi"> I'm Chaithanya Vamshi Sai** 
 
 
-#### <p>Solution-focused Data Analyst and Business Intelligence Analyst with a Masters Degree in Artificial Intelligence and 3+ years of experience in analysing and operationalising data-driven solutions. Aspiring Data Scientist confident in collaborating with cross-functional teams to solve business problems by uncovering valuable insights, streamlining business processes, and impacting revenue. Skilled in Python, SQL, Data Science, Machine Learning and Data Visualisation.</p>
+#### <p align = 'justify'> Solution-focused Data Scientist with a Master’s in Artificial Intelligence and 3+ years of experience in analysing, integrating, and operationalising AI and data-driven solutions. I excel in collaborating with cross-functional teams to solve business problems, deliver business insights, design dashboards, automate solutions, streamline processes and drive decision-making. Skilled in Python, SQL, Data Science, Machine Learning and Data Visualisation.</p>
 
 
 <!--![Chaithanya Vamshi Data Scientist - GitHub](https://user-images.githubusercontent.com/31254745/181863289-75ee1caf-d9aa-4dd9-b1aa-bd52df9b4341.png)-->
@@ -22,7 +22,7 @@
 <!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150092463-875d72f1-d6e1-467b-a908-417533ef14d7.gif" width="300" height="240" /> -->
 - 🎓 Master of Science (MSc) in Artificial Intelligence @ Birmingham City University, UK.
 - 🔭 Researching on Explainable AI (XAI), Interpretable Machine Learning (IML), Human-centric AI. 
-- 🌱 Exploring Machine Learning, Time Series Forecasting, Deep Neural Networks, AWS and Microsoft Azure.
+- 🌱 Exploring OpenAI, AWS and Microsoft Azure.
 - 🤝 Looking to collaborate with Data Nerds who share the same passion for uncovering insights from the data.
 - 💬 Ask me about Artificial Intelligence, Data Science, Machine Learning, Data Analytics and Business Intelligence (BI).
 - 📝 I write Tech blogs on [Portfolio](https://chaithanyavamshi.github.io/posts/), [Medium](https://medium.com/@chaithanyavamshi)
