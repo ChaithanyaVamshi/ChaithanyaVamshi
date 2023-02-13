@@ -2,7 +2,7 @@
 # **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height = "28px" alt="hi"> I'm Chaithanya Vamshi Sai** 
 
 
-#### <p align = 'justify'> Solution-focused Data Scientist with a Master’s in Artificial Intelligence and 3+ years of experience in analysing, integrating, and operationalising AI and data-driven solutions. I excel in collaborating with cross-functional teams to solve business problems, deliver business insights, design dashboards, automate solutions, streamline processes and drive decision-making. Skilled in Python, SQL, Data Science, Machine Learning and Data Visualisation.</p>
+#### <p align = 'justify'> Solution-focused Data Scientist with a Master’s in Artificial Intelligence and 4+ years of experience in analysing, integrating, and operationalising AI and data-driven solutions. I excel in collaborating with cross-functional teams to solve business problems, deliver business insights, design dashboards, automate solutions, streamline processes and drive decision-making. Skilled in Python, SQL, Data Science, Machine Learning and Data Visualisation.</p>
 
 
 <!--![Chaithanya Vamshi Data Scientist - GitHub](https://user-images.githubusercontent.com/31254745/181863289-75ee1caf-d9aa-4dd9-b1aa-bd52df9b4341.png)-->
