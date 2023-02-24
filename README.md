@@ -20,7 +20,7 @@
 <!-- TODO: Add last video link -->
 
 <!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150092463-875d72f1-d6e1-467b-a908-417533ef14d7.gif" width="300" height="240" /> -->
-- 🎓 Master of Science (MSc) in Artificial Intelligence @ Birmingham City University, UK.
+- 🎓 Master of Science (MSc) in Artificial Intelligence and a Bachelor of Technology (B.Tech) in Computer Science and Engineering.
 - 🔭 Researching on Explainable AI (XAI), Interpretable Machine Learning (IML), Human-centric AI. 
 - 🌱 Exploring OpenAI, AWS and Microsoft Azure.
 - 🤝 Looking to collaborate with Data Nerds who share the same passion for uncovering insights from the data.
