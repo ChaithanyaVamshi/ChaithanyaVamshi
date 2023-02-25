@@ -25,7 +25,7 @@
 - 🔭 Researching on Explainable AI (XAI), Interpretable Machine Learning (IML), Human-centric AI. 
 - 🌱 Exploring OpenAI, AWS and Microsoft Azure.
 - 🤝 Looking to network with Data Nerds who share the same passion for unveiling insights and solving business problems.
-- 💬 Ask me about Python Automation, Artificial Intelligence, Data Science, Machine Learning, Data Analytics and Business Intelligence (BI).
+- 💬 Ask me about Artificial Intelligence, Data Science, Machine Learning, Data Analytics and Business Intelligence (BI).
 - 📝 I write Technical blogs on **[Medium](https://chaithanyavsai.medium.com/)**
 - ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Dance and Cook. 
 
