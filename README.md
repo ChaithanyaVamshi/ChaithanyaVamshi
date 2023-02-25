@@ -14,8 +14,9 @@
 -->	
 ## **📫 Connect with Me!**
 [![GitHub Badge](https://img.shields.io/badge/-chaithanyavamshi-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/ChaithanyaVamshi/)
-[![Linkedin Badge](https://img.shields.io/badge/-chaithanyavsai-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithanyavsai/)  [![Mail Badge](https://img.shields.io/badge/-chaithanyav.sai@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chaithanyav.sai@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@ChaithanyaVams2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/ChaithanyaVams2) 
+[![Linkedin Badge](https://img.shields.io/badge/-chaithanyavsai-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithanyavsai/) 
+[![Mail Badge](https://img.shields.io/badge/-chaithanyav.sai@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chaithanyav.sai@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-chaithanyavsai-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://chaithanyavsai.medium.com/)
 
 <!-- TODO: Add last video link -->
 
@@ -23,9 +24,9 @@
 - 🎓 Master of Science (MSc) in Artificial Intelligence and a Bachelor of Technology (B.Tech) in Computer Science and Engineering.
 - 🔭 Researching on Explainable AI (XAI), Interpretable Machine Learning (IML), Human-centric AI. 
 - 🌱 Exploring OpenAI, AWS and Microsoft Azure.
-- 🤝 Looking to collaborate with Data Nerds who share the same passion for uncovering insights from the data.
+- 🤝 Looking to network with Data Nerds who share the same passion for uncovering insights and solving business problems using data.
 - 💬 Ask me about Artificial Intelligence, Data Science, Machine Learning, Data Analytics and Business Intelligence (BI).
-- 📝 I write Tech blogs on [Portfolio](https://chaithanyavamshi.github.io/posts/), [Medium](https://medium.com/@chaithanyavamshi)
+- 📝 I write Technical blogs on **[Medium](https://chaithanyavsai.medium.com/)**
 - ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Dance and Cook. 
 
 <!--
